@@ -26,13 +26,13 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 ![3165_2](assets/3165_2.png)
 
 
-### [exercicio 3]()
+### [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
 ![numero]()
 ![numero]()
 
 
-### [exercicio 4]()
+### [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
 ![numero]()
 ![numero]()
