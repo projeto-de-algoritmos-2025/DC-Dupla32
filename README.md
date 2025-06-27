@@ -34,8 +34,8 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 
 ### [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
-![numero]()
-![numero]()
+![218_1](assets/218_1.png)
+![218_2](assets/218_2.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
