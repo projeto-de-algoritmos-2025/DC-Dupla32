@@ -28,9 +28,9 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 
 ### [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
-![numero]()
-![numero]()
-
+![23_1](assets/23_1.png)
+![23_2](assets/23_2.png)
+![23_3](assets/23_3.png)
 
 ### [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
