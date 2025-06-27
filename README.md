@@ -1,4 +1,4 @@
-# Divide and Conquest
+# Divide and Conquer
 
 **Conteúdo da Disciplina**: Algoritmos de Dividir e Conquistar
 
@@ -14,17 +14,16 @@ O objetivo deste repositório é conter as soluções de problemas nível médio
 
 
 ## Screenshots
-### [exercicio 1]()
+### [1649. Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/?envType=problem-list-v2&envId=divide-and-conquer)
 
-![numero]()
-![numero]()
+![1649_1](assets/1649_1.png)
+![1649_2](assets/1649_2.png)
 
-### [exercicio 2]()
+### [3165. Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
 
-![numero]()
-![numero]()
-![numero]()
+![3165_1](assets/3165_1.png)
+![3165_2](assets/3165_2.png)
 
 
 ### [exercicio 3]()
