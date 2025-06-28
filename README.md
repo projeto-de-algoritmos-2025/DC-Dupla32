@@ -51,4 +51,4 @@ Apenas execute o código
 
 ## Vídeo 
 
-![Video]()
+[![Video](https://i.ytimg.com/vi/iVJKqZLC0dc/0.jpg)](https://youtu.be/iVJKqZLC0dc)
